@@ -1,3 +1,5 @@
+package taller1;
+
 public aspect Login {
     //Aspecto2: El login debe realizarse antes de la transacción
         private static Scanner input = new Scanner(System.in);
